@@ -1,5 +1,3 @@
-California Housing Price Analysis Documentation
-Overview
 This Jupyter Notebook contains an in-depth analysis of the California housing dataset. The objective is to eLibraries Used
 The following libraries are imported for data handling, analysis, and modeling:
 - pandas for data manipulation
